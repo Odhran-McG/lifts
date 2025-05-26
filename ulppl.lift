@@ -17,7 +17,6 @@ t5 / used: none / 2x3-5@7, 1x3-5@8 / 180s / progress: dp(2.5kg, 3, 5)
 t6 / used: none / 2x8-10@7, 1x8-10@8 / 120s / progress: dp(2.5kg, 8, 10) 
 t7 / used: none / 2x8-10@9, 1x8-10@10 / 60s / progress: dp(2.5kg, 8, 10) 
 t8 / used: none / 2x10-12@9, 1x10-12@10 / 60s / progress: dp(2.5kg, 10, 12) 
-Deadlift
 
 Deadlift, Barbell[1-7] / ...t4
 Leg Press[1-7] / ...t5
@@ -38,7 +37,7 @@ Incline Bench Press, Dumbbell[1-7] / ...t10
 Lateral Raise, Cable[1-7] / ...t11
 // Cheat Reps
 Chest Fly[1-7] / ...t11 / 1x12-15 @9, 1x12-15 @10 
-Triceps Pushdown[1-7] / ...t11 / dp(5kg, 12, 15) 
+Triceps Pushdown[1-7] / ...t11 / progress: dp(5kg, 12, 15) 
 Triceps Extension, Cable[1-7] / ...t12
 
 ## Day 4
@@ -55,6 +54,6 @@ Shrug, Dumbbell[1-7] / ...t14 / 1x12-15 @9, 1x12-15 @10
 Hammer Curl[1-7] / ...t14
 Bayesian Curl[1-7] / ...t15
 
-
-# Maybe write a custom function to increase RPE of final set of each exercise, this occurs in most Nippard programs, would reduce declaration complexity
-# Logic for widening rep ranges if you fail to hit range with new increased weight, e.g. Dumbell 2.5kg increase, cable 5kg increase, bar 2.5kg increase
+# TODO
+# - write a custom function earlyFinalSetRPE() to increase RPE of final set of each exercise, this occurs in most Nippard programs, would reduce declaration complexity
+# - dpw(load, minReps, maxReps) progression fn for widening rep ranges if you fail to hit range with new increased weight, e.g. Dumbell 2.5kg increase, cable 5kg increase, bar 2.5kg increase
