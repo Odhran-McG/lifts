@@ -1,0 +1,60 @@
+# Week 1
+## Day 1
+t1 / used: none / 2x3-5@7.5, 1x3-5@9 / 180s / progress: dp(2.5kg, 3, 5) 
+t2 / used: none / 2x6-8@7.5, 1x3-5@8 / 120s / progress: dp(2.5kg, 3, 5) 
+t3 / used: none / 2x8-10@9, 1x8-10@10 / 90s / progress: dp(2.5kg, 8, 10)
+
+Bench Press, Barbell[1-7] / ...t1
+Seated Row, Cable[1-7] / ...t2
+Pull Up, Bodyweight[1-7] / ...t3
+Chest Fly, Dumbbell[1-7] / ...t3 / 1x8-10@9, 1x8-10@10
+Bicep Curl, EZ Bar[1-7] / ...t3
+Skullcrusher, EZ Bar[1-7] / ...t3
+
+## Day 2
+t4 / used: none / 2x3-5@6, 1x3-5@7 / 180s / progress: dp(5kg, 3, 5) 
+t5 / used: none / 2x3-5@7, 1x3-5@8 / 180s / progress: dp(2.5kg, 3, 5) 
+t6 / used: none / 2x8-10@7, 1x8-10@8 / 120s / progress: dp(2.5kg, 8, 10) 
+t7 / used: none / 2x8-10@9, 1x8-10@10 / 60s / progress: dp(2.5kg, 8, 10) 
+t8 / used: none / 2x10-12@9, 1x10-12@10 / 60s / progress: dp(2.5kg, 10, 12) 
+Deadlift
+
+Deadlift, Barbell[1-7] / ...t4
+Leg Press[1-7] / ...t5
+Back Extension, Bodyweight[1-7] / ...t6
+Seated Calf Raise, Leverage Machine[1-7] / ...t7
+Cable Crunch, Cable[1-7] / ...t8
+
+
+## Day 3
+t9 / used: none /  2x8-10, @7.5, 1x8-10, @9 / 180s / progress: dp(2.5kg, 8, 10) 
+t10 / used: none / 2x10-12, @7.5, 1x10-12, @9 / 120s / progress: dp(2.5kg, 10,12) 
+t11 / used: none / 2x12-15 @9, 1x12-15 @10  / 60s / progress: dp(2.5kg, 12, 15) 
+t12 / used: none / 2x15-20 @9, 1x15-20 @10  / 60s / progress: dp(5kg, 15, 20) 
+
+
+Overhead Press[1-7] / ...t9
+Incline Bench Press, Dumbbell[1-7] / ...t10
+Lateral Raise, Cable[1-7] / ...t11
+// Cheat Reps
+Chest Fly[1-7] / ...t11 / 1x12-15 @9, 1x12-15 @10 
+Triceps Pushdown[1-7] / ...t11 / dp(5kg, 12, 15) 
+Triceps Extension, Cable[1-7] / ...t12
+
+## Day 4
+t13 / used: none / 2x10-12, @7.5, 1x10-12, @9 / 120s / progress: dp(5kg, 10,12) 
+t14 / used: none / 2x12-15, @9, 1x12-15, @10 / 60s / progress: dp(5kg, 10,12) 
+t15 / used: none / 2x15-20, @9, 1x15-20, @10 / 60s / progress: dp(5kg, 10,12) 
+
+Lat Pulldown[1-7] / ...t13
+Seated Row, Cable[1-7] / ...t13
+Pullover, Cable[1-7] / ...t14
+Face Pull[1-7] / ...t14
+// Cheat Reps
+Shrug, Dumbbell[1-7] / ...t14 / 1x12-15 @9, 1x12-15 @10
+Hammer Curl[1-7] / ...t14
+Bayesian Curl[1-7] / ...t15
+
+
+# Maybe write a custom function to increase RPE of final set of each exercise, this occurs in most Nippard programs, would reduce declaration complexity
+# Logic for widening rep ranges if you fail to hit range with new increased weight, e.g. Dumbell 2.5kg increase, cable 5kg increase, bar 2.5kg increase
