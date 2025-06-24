@@ -1,59 +1,131 @@
 # Week 1
 ## Day 1
-t1 / used: none / 2x3-5@7.5, 1x3-5@9 / 180s / progress: dp(2.5kg, 3, 5) 
-t2 / used: none / 2x6-8@7.5, 1x3-5@8 / 120s / progress: dp(2.5kg, 3, 5) 
-t3 / used: none / 2x8-10@9, 1x8-10@10 / 90s / progress: dp(2.5kg, 8, 10)
+upper_chest_heavy / used: none / 2x3-5@7.5, 1x3-5@9 / 240s / progress: dp(2.5kg, 3, 5) / warmup: 1x8 45%, 1x5 65%, 1x4 85%
+upper_back_heavy / used: none / 2x6-8@7.5, 1x3-5@8 / 120s / progress: dp(2.5kg, 3, 5) / warmup: 1x6 50%, 1x5 70%
+// Perform Lengthened Partials on last set.
+upper_shoulders / used: none / 2x8-10@9, 1x8-10@10 / 90s / progress: dp(2.5kg, 8, 10) / warmup: 1x8 60%
+upper_back_accessory / used: none / 2x8-10@9, 1x8-10@10 / 180s / progress: dp(2.5kg, 8, 10) / warmup: 1x6 50%, 1x5 70%
+// Perform Dropset as the last set. Drop RPE by 2
+upper_chest_accessory / used: none / 1x8-10@9, 1x8-10@10 / 90s / progress: dp(2.5kg, 8, 10) / warmup: 1x8 60%
+upper_biceps / used: none / 1x8-10@9, 1x8-10@10 / 60s / progress: dp(2.5kg, 8, 10) / warmup: 1x8 60%
+upper_triceps / used: none / 1x8-10@9, 1x8-10@10 / 60s / progress: dp(2.5kg, 8, 10) / warmup: 1x8 60%
 
-Bench Press, Barbell[1-7] / ...t1
-Seated Row, Cable[1-7] / ...t2
-Pull Up, Bodyweight[1-7] / ...t3
-Chest Fly, Dumbbell[1-7] / ...t3 / 1x8-10@9, 1x8-10@10
-Bicep Curl, EZ Bar[1-7] / ...t3
-Skullcrusher, EZ Bar[1-7] / ...t3
+Bench Press, Barbell[1-5] / ...upper_chest_heavy
+Seated Row, Cable[1-5] / ...upper_back_heavy
+Lateral Raise, Dumbbell[1-5] / ...upper_shoulders
+Pull Up, Bodyweight[1-5] / ...upper_back_accessory
+Chest Fly, Dumbbell[1-5] / ...upper_chest_accessory
+Bicep Curl, EZ Bar[1-5] / ...upper_biceps
+Skullcrusher, EZ Bar[1-5] / ...upper_triceps
 
 ## Day 2
-t4 / used: none / 2x3-5@6, 1x3-5@7 / 180s / progress: dp(5kg, 3, 5) 
-t5 / used: none / 2x3-5@7, 1x3-5@8 / 180s / progress: dp(2.5kg, 3, 5) 
-t6 / used: none / 2x8-10@7, 1x8-10@8 / 120s / progress: dp(2.5kg, 8, 10) 
-t7 / used: none / 2x8-10@9, 1x8-10@10 / 60s / progress: dp(2.5kg, 8, 10) 
-t8 / used: none / 2x10-12@9, 1x10-12@10 / 60s / progress: dp(2.5kg, 10, 12) 
+lower_hinge_heavy / used: none / 2x3-5@6, 1x3-5@7 / 180s / progress: dp(5kg, 3, 5) / warmup: 1x8 45%, 1x5 60%, 1x4 75%, 1x3 85%
+lower_quad_heavy / used: none / 2x6-8@7, 1x6-8@8 / 180s / progress: dp(5kg, 6, 8) / warmup: 1x8 45%, 1x5 65%, 1x4 85%
+lower_glutes / used: none / 2x8-10@7, 1x8-10@8 / 120s / progress: dp(5kg, 8, 10) / warmup: 1x6 50%, 1x5 70%
+lower_calf / used: none / 2x8-10@9, 1x8-10@10 / 90s / progress: dp(5kg, 8, 10) / warmup: 1x8 60%
+lower_core / used: none / 2x10-12@9, 1x10-12@10 / 90s / progress: dp(2.5kg, 10, 12) / warmup: 1x8 60%
 
-Deadlift, Barbell[1-7] / ...t4
-Leg Press[1-7] / ...t5
-Back Extension, Bodyweight[1-7] / ...t6
-Seated Calf Raise, Leverage Machine[1-7] / ...t7
-Cable Crunch, Cable[1-7] / ...t8
-
+Deadlift, Barbell[1-5] / ...lower_hinge_heavy
+Leg Press[1-5] / ...lower_quad_heavy
+Back Extension, Bodyweight[1-5] / ...lower_glutes
+Seated Calf Raise, Leverage Machine[1-5] / ...lower_calf
+Crunch, Leverage Machine[1-5] / ...lower_core
 
 ## Day 3
-t9 / used: none /  2x8-10, @7.5, 1x8-10, @9 / 180s / progress: dp(2.5kg, 8, 10) 
-t10 / used: none / 2x10-12, @7.5, 1x10-12, @9 / 120s / progress: dp(2.5kg, 10,12) 
-t11 / used: none / 2x12-15 @9, 1x12-15 @10  / 60s / progress: dp(2.5kg, 12, 15) 
-t12 / used: none / 2x15-20 @9, 1x15-20 @10  / 60s / progress: dp(5kg, 15, 20) 
+push_shoulders_compound / used: none / 2x8-10@7.5, 1x8-10@9 / 240s / progress: dp(2.5kg, 8, 10) / warmup: 1x8 45%, 1x5 65%, 1x4 85%
+push_chest / used: none / 2x10-12@7.5, 1x10-12@9 / 120s / progress: dp(2.5kg, 10, 12) / warmup: 1x6 50%, 1x5 70%
+push_shoulders_accessory / used: none / 2x12-15@9, 1x12-15@10 / 90s / progress: dp(2.5kg, 12, 15) / warmup: 1x8 60%
+// Perform Myoreps on the last set. Sets of 3-5 reps every 3-5 breaths
+push_chest_accessory / used: none / 1x12-15@9, 1x12-15@10 / 90s / progress: dp(2.5kg, 12, 15) / warmup: 1x8 60%
+push_triceps / used: none / 2x12-15@9, 1x12-15@10 / 90s / progress: dp(5kg, 12, 15) / warmup: 1x8 60%
+push_triceps_accessory / used: none / 2x15-20@9, 1x15-20@10 / 90s / progress: dp(5kg, 15, 20) / warmup: 1x8 60%
 
-
-Overhead Press[1-7] / ...t9
-Incline Bench Press, Dumbbell[1-7] / ...t10
-Lateral Raise, Cable[1-7] / ...t11
-// Cheat Reps
-Chest Fly[1-7] / ...t11 / 1x12-15 @9, 1x12-15 @10 
-Triceps Pushdown[1-7] / ...t11 / progress: dp(5kg, 12, 15) 
-Triceps Extension, Cable[1-7] / ...t12
+Overhead Press[1-5] / ...push_shoulders_compound
+Incline Bench Press, Dumbbell[1-5] / ...push_chest
+Lateral Raise, Cable[1-5] / ...push_shoulders_accessory
+Chest Fly[1-5] / ...push_chest_accessory
+Triceps Pushdown[1-5] / ...push_triceps
+Triceps Extension, Cable[1-5] / ...push_triceps_accessory
 
 ## Day 4
-t13 / used: none / 2x10-12, @7.5, 1x10-12, @9 / 120s / progress: dp(5kg, 10,12) 
-t14 / used: none / 2x12-15, @9, 1x12-15, @10 / 60s / progress: dp(5kg, 10,12) 
-t15 / used: none / 2x15-20, @9, 1x15-20, @10 / 60s / progress: dp(5kg, 10,12) 
+pull_back / used: none / 2x10-12@7.5, 1x10-12@9 / 120s / progress: dp(5kg, 10, 12) / warmup: 1x6 50%, 1x5 70%
+pull_back__mid_accessory / used: none / 2x10-12@7.5, 1x10-12@9 / 120s / progress: dp(2.5kg, 10, 12) / warmup: 1x6 50%, 1x5 70%
+pull_back_lats_accessory / used: none / 2x12-15@9, 1x12-15@10 / 90s / progress: dp(5kg, 12, 15) / warmup: 1x8 60%
+pull_shoulders_reardelt / used: none / 2x12-15@9, 1x12-15@10 / 90s / progress: dp(5kg, 12, 15) / warmup: 1x8 60%
+// Perform Cheat Reps on the last set.
+pull_shoulders_traps / used: none / 1x12-15@9, 1x12-15@10 / 90s / progress: dp(2.5kg, 12, 15) / warmup: 1x8 60%
+pull_biceps_long / used: none / 1x12-15@9, 1x12-15@10 / 90s / progress: dp(5kg, 12, 15) / warmup: 1x8 60%
+pull_biceps_short / used: none / 2x15-20@9, 1x15-20@10 / 90s / progress: dp(5kg, 15, 20) / warmup: 1x8 60%
 
-Lat Pulldown[1-7] / ...t13
-Seated Row, Cable[1-7] / ...t13
-Pullover, Cable[1-7] / ...t14
-Face Pull[1-7] / ...t14
-// Cheat Reps
-Shrug, Dumbbell[1-7] / ...t14 / 1x12-15 @9, 1x12-15 @10
-Hammer Curl[1-7] / ...t14
-Bayesian Curl[1-7] / ...t15
+Lat Pulldown[1-5] / ...pull_back
+Seated Row, Cable[1-5] / ...pull_back__mid_accessory
+Pullover, Cable[1-5] / ...pull_back_lats_accessory
+Face Pull[1-5] / ...pull_shoulders_reardelt
+Shrug, Dumbbell[1-5] / ...pull_shoulders_traps
+Hammer Curl[1-5] / ...pull_biceps_long
+Bayesian Curl[1-5] / ...pull_biceps_short
 
-# TODO
-# - write a custom function earlyFinalSetRPE() to increase RPE of final set of each exercise, this occurs in most Nippard programs, would reduce declaration complexity
-# - dpw(load, minReps, maxReps) progression fn for widening rep ranges if you fail to hit range with new increased weight, e.g. Dumbell 2.5kg increase, cable 5kg increase, bar 2.5kg increase
+
+// DELOAD WEEK
+# Week 6 - DELOAD
+## Day 1
+upper_chest_heavy_deload / used: none / 1x3-5@5.5 / 240s / progress: none / warmup: 1x8 45%, 1x5 65%
+upper_back_heavy_deload / used: none / 1x6-8@5.5 / 120s / progress: none / warmup: 1x8 60%
+upper_shoulders_deload / used: none / 1x8-10@7 / 90s / progress: none / warmup: 1x8 60%
+upper_back_accessory_deload / used: none / 1x8-10@7 / 180s / progress: none / warmup: 1x8 60%
+upper_chest_accessory_deload / used: none / 1x8-10@7 / 90s / progress: none / warmup: 1x8 60%
+upper_biceps_deload / used: none / 1x8-10@7 / 60s / progress: none / warmup: 1x8 60%
+upper_triceps_deload / used: none / 1x8-10@7 / 60s / progress: none / warmup: 1x8 60%
+
+Bench Press, Barbell[6] / ...upper_chest_heavy_deload
+Seated Row, Cable[6] / ...upper_back_heavy_deload
+Lateral Raise, Dumbbell[6] / ...upper_shoulders_deload
+Pull Up, Bodyweight[6] / ...upper_back_accessory_deload
+Chest Fly, Dumbbell[6] / ...upper_chest_accessory_deload
+Bicep Curl, EZ Bar[6] / ...upper_biceps_deload
+Skullcrusher, EZ Bar[6] / ...upper_triceps_deload
+
+## Day 2
+lower_hinge_heavy_deload / used: none / 1x3-5@4.5 / 180s / progress: none / warmup: 1x8 45%, 1x5 65%
+lower_quad_heavy_deload / used: none / 1x6-8@5.5 / 180s / progress: none / warmup: 1x8 45%, 1x5 65%
+lower_glutes_deload / used: none / 1x8-10@5.5 / 120s / progress: none / warmup: 1x8 60%
+lower_calf_deload / used: none / 1x8-10@7 / 90s / progress: none / warmup: 1x8 60%
+lower_core_deload / used: none / 1x10-12@7 / 90s / progress: none / warmup: 1x8 60%
+
+Deadlift, Barbell[6] / ...lower_hinge_heavy_deload
+Leg Press[6] / ...lower_quad_heavy_deload
+Back Extension, Bodyweight[6] / ...lower_glutes_deload
+Seated Calf Raise, Leverage Machine[6] / ...lower_calf_deload
+Crunch, Leverage Machine[6] / ...lower_core_deload
+
+## Day 3
+push_shoulders_compound_deload / used: none / 1x8-10@5.5 / 240s / progress: none / warmup: 1x8 45%, 1x5 65%
+push_chest_deload / used: none / 1x10-12@5.5 / 120s / progress: none / warmup: 1x8 60%
+push_shoulders_accessory_deload / used: none / 1x12-15@7 / 90s / progress: none / warmup: 1x8 60%
+push_chest_accessory_deload / used: none / 1x12-15@7 / 90s / progress: none / warmup: 1x8 60%
+push_triceps_deload / used: none / 1x12-15@7 / 90s / progress: none / warmup: 1x8 60%
+push_triceps_accessory_deload / used: none / 1x15-20@7 / 90s / progress: none / warmup: 1x8 60%
+
+Overhead Press[6] / ...push_shoulders_compound_deload
+Incline Bench Press, Dumbbell[6] / ...push_chest_deload
+Lateral Raise, Cable[6] / ...push_shoulders_accessory_deload
+Chest Fly[6] / ...push_chest_accessory_deload
+Triceps Pushdown[6] / ...push_triceps_deload
+Triceps Extension, Cable[6] / ...push_triceps_accessory_deload
+
+## Day 4
+pull_back_deload / used: none / 1x10-12@5.5 / 120s / progress: none / warmup: 1x8 60%
+pull_back__mid_accessory_deload / used: none / 1x10-12@5.5 / 120s / progress: none / warmup: 1x8 60%
+pull_back_lats_accessory_deload / used: none / 1x12-15@7 / 90s / progress: none / warmup: 1x8 60%
+pull_shoulders_reardelt_deload / used: none / 1x12-15@7 / 90s / progress: none / warmup: 1x8 60%
+pull_shoulders_traps_deload / used: none / 1x12-15@7 / 90s / progress: none / warmup: 1x8 60%
+pull_biceps_long_deload / used: none / 1x12-15@7 / 90s / progress: none / warmup: 1x8 60%
+pull_biceps_short_deload / used: none / 1x15-20@7 / 90s / progress: none / warmup: 1x8 60%
+
+Lat Pulldown[6] / ...pull_back_deload
+Seated Row, Cable[6] / ...pull_back__mid_accessory_deload
+Pullover, Cable[6] / ...pull_back_lats_accessory_deload
+Face Pull[6] / ...pull_shoulders_reardelt_deload
+Shrug, Dumbbell[6] / ...pull_shoulders_traps_deload
+Hammer Curl[6] / ...pull_biceps_long_deload
+Bayesian Curl[6] / ...pull_biceps_short_deload
